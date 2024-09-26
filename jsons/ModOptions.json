@@ -1,1 +1,4 @@
-{"isBaseRuleset":true}
+{
+    "nationsToRemove": ["Brussels","Florence"],
+    "isBaseRuleset": false
+}
